@@ -1,0 +1,2 @@
+# node_modules -kansion tiedostoja ei lisätä gitiin. Ne haetaan automaattisesti package.json -tiedoston määritysten perusteella.
+node_modules/
