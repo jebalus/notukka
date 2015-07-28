@@ -1,7 +1,0 @@
-{
-  "name": "Notukka",
-  "description": "Sampon NodeJS testisovellus",
-  "repository": "https://github.com/jebalus/notukka.git",
-  "logo": "",
-  "keywords": ["node", "express", "testailua"]
-}
