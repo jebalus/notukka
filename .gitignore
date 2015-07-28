@@ -1,2 +1,5 @@
 # node_modules -kansion tiedostoja ei lisätä gitiin. Ne haetaan automaattisesti package.json -tiedoston määritysten perusteella.
 node_modules/
+
+# private-config needs to remain private
+private-config.json
